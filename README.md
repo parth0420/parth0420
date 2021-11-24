@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parth0420
+- 👋 Hi, I’m Parth
 - 👀 I’m interested in Data Science, Cryptocurrency(BTC)
 - 🌱 I’m currently learning everything in Data Science
 - 💞️ I’m looking to collaborate on ...
